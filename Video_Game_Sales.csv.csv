@@ -1,0 +1,501 @@
+Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+Game_1,Mobile,,Sports,Sony,0.58,0.11,0.3,0.92,1.91
+Game_2,Xbox One,2019.0,Sports,Nintendo,5.69,4.45,0.32,0.22,10.68
+Game_3,PS4,2014.0,Racing,Nintendo,0.34,0.59,0.45,0.07,1.45
+Game_4,Nintendo Switch,2010.0,RPG,EA,1.77,0.05,0.39,0.18,2.39
+Game_5,PC,2007.0,RPG,Capcom,2.58,0.04,0.96,0.76,4.34
+Game_6,Nintendo Switch,2020.0,Puzzle,Activision,0.06,1.37,0.03,0.06,1.52
+Game_7,Nintendo Switch,2006.0,Strategy,Nintendo,1.66,1.08,0.9,0.07,3.71
+Game_8,Xbox One,2018.0,Action,Capcom,4.54,1.62,0.93,0.0,7.09
+Game_9,PC,2022.0,Puzzle,Capcom,0.2,0.11,0.17,0.0,0.48
+Game_10,Nintendo Switch,2010.0,Adventure,Ubisoft,3.4,0.04,0.31,0.53,4.28
+Game_11,PS4,2010.0,Shooter,Ubisoft,1.35,0.71,0.29,0.4,2.75
+Game_12,PS4,2023.0,Sports,Sony,1.44,0.49,0.12,0.13,2.18
+Game_13,PS5,2020.0,Puzzle,Bethesda,1.42,0.62,0.25,0.36,2.65
+Game_14,PC,2003.0,Action,Sony,0.53,4.78,0.02,0.15,5.48
+Game_15,PC,2007.0,Action,Rockstar,4.1,3.53,0.16,0.92,8.71
+Game_16,PS5,2023.0,Puzzle,Activision,4.42,2.85,0.85,1.02,9.14
+Game_17,Nintendo Switch,2002.0,Racing,Rockstar,1.47,1.53,0.17,0.15,3.32
+Game_18,PC,2021.0,Sports,2K Games,2.29,0.44,0.85,0.58,4.16
+Game_19,PS4,2020.0,Racing,Rockstar,1.42,0.53,0.38,0.44,2.77
+Game_20,PS4,2001.0,Shooter,EA,0.99,0.8,1.06,0.11,2.96
+Game_21,Xbox One,,Action,Rockstar,1.62,1.78,0.43,0.08,3.91
+Game_22,PC,2011.0,Action,Sony,1.21,0.07,0.02,0.18,1.48
+Game_23,Nintendo Switch,2005.0,Adventure,Nintendo,1.37,0.55,0.56,0.46,2.94
+Game_24,PS5,2001.0,Shooter,Nintendo,2.3,0.09,0.02,0.97,3.38
+Game_25,PS5,2020.0,Action,Ubisoft,0.98,0.72,0.3,0.43,2.43
+Game_26,Nintendo Switch,2000.0,Shooter,Activision,0.06,2.29,1.33,0.58,4.26
+Game_27,Mobile,2011.0,Sports,Activision,0.27,1.53,0.09,0.28,2.17
+Game_28,Xbox Series X,2021.0,RPG,EA,0.87,0.26,0.25,0.54,1.92
+Game_29,Xbox One,2011.0,Action,Sony,1.94,3.73,0.65,0.46,6.78
+Game_30,PS5,2016.0,Adventure,Ubisoft,1.35,1.1,1.07,0.14,3.66
+Game_31,PC,2009.0,Sports,2K Games,1.58,0.01,0.56,0.24,2.39
+Game_32,Xbox One,2015.0,Puzzle,Activision,0.98,0.29,0.15,0.49,1.91
+Game_33,PC,2014.0,Shooter,Nintendo,1.43,0.3,0.56,0.01,2.3
+Game_34,Mobile,2014.0,Puzzle,Rockstar,0.6,0.07,0.18,0.5,1.35
+Game_35,PS4,,Racing,Rockstar,0.95,3.21,0.63,0.06,4.85
+Game_36,Xbox One,2011.0,Sports,Ubisoft,2.05,0.65,1.54,0.22,4.46
+Game_37,PS5,2022.0,Puzzle,Sony,3.08,2.26,0.64,0.5,6.48
+Game_38,Xbox One,2019.0,Strategy,Sony,0.85,0.39,0.99,0.09,2.32
+Game_39,Xbox One,2002.0,Strategy,Bethesda,0.07,0.13,0.0,0.08,0.28
+Game_40,Xbox One,2004.0,Action,Bandai Namco,0.26,0.64,0.63,0.15,1.68
+Game_41,Xbox Series X,2018.0,Shooter,Activision,0.03,0.12,0.88,0.68,1.71
+Game_42,Xbox One,2006.0,RPG,Sony,1.59,0.67,0.02,0.0,2.28
+Game_43,PC,2020.0,Sports,Nintendo,0.61,2.53,1.03,0.69,4.86
+Game_44,PS4,2008.0,Action,Ubisoft,1.17,0.74,0.15,0.05,2.11
+Game_45,Mobile,2006.0,Adventure,2K Games,1.02,0.96,0.55,1.38,3.91
+Game_46,Nintendo Switch,2017.0,Racing,Bethesda,0.13,0.17,0.81,0.93,2.04
+Game_47,Xbox One,2003.0,Shooter,Capcom,0.77,0.04,0.54,0.2,1.55
+Game_48,PS5,2013.0,Sports,EA,0.37,0.12,0.05,0.22,0.76
+Game_49,Xbox One,2017.0,Strategy,2K Games,0.81,0.91,0.45,0.2,2.37
+Game_50,PS5,2008.0,Sports,Capcom,0.34,0.1,0.4,0.3,1.14
+Game_51,PC,2020.0,RPG,Rockstar,2.75,0.47,1.15,0.03,4.4
+Game_52,PS5,2001.0,Strategy,EA,0.29,0.8,0.26,0.01,1.36
+Game_53,Nintendo Switch,2019.0,RPG,Activision,4.86,0.49,0.19,0.02,5.56
+Game_54,PS4,2014.0,Adventure,Nintendo,0.81,0.18,0.69,0.18,1.86
+Game_55,PS5,2006.0,Racing,EA,2.81,0.32,0.27,0.1,3.5
+Game_56,PS5,2011.0,Adventure,Bandai Namco,1.49,2.64,0.52,0.29,4.94
+Game_57,PS4,2007.0,Action,Capcom,1.99,1.13,0.52,1.47,5.11
+Game_58,Nintendo Switch,2014.0,Action,Activision,2.19,0.69,1.09,0.15,4.12
+Game_59,Xbox One,2002.0,Adventure,Bandai Namco,1.05,0.01,0.46,0.26,1.78
+Game_60,PS5,2013.0,Racing,Rockstar,1.18,4.88,0.35,0.16,6.57
+Game_61,PS4,2016.0,Adventure,Bandai Namco,1.08,1.11,0.07,0.56,2.82
+Game_62,PC,2003.0,Racing,Bethesda,1.33,0.38,0.06,0.7,2.47
+Game_63,PS4,2017.0,Racing,Bethesda,0.04,2.11,0.08,0.63,2.86
+Game_64,PC,2007.0,Puzzle,Ubisoft,0.76,0.3,0.09,1.1,2.25
+Game_65,Nintendo Switch,2003.0,Strategy,2K Games,1.4,0.79,0.51,0.01,2.71
+Game_66,Xbox One,2001.0,Shooter,2K Games,1.37,1.01,0.68,0.55,3.61
+Game_67,PS4,2005.0,Racing,Activision,2.36,0.25,0.38,0.42,3.41
+Game_68,Mobile,2021.0,RPG,Rockstar,1.6,3.83,0.88,0.08,6.39
+Game_69,Mobile,2009.0,Racing,Sony,7.27,1.38,2.37,0.94,11.96
+Game_70,Xbox Series X,2003.0,Racing,Bethesda,0.5,0.82,0.86,0.05,2.23
+Game_71,PS5,2021.0,Racing,Activision,0.67,0.2,0.59,0.34,1.8
+Game_72,Nintendo Switch,2017.0,Puzzle,Sony,0.73,0.06,0.38,0.08,1.25
+Game_73,PS4,2011.0,Strategy,2K Games,0.94,0.39,0.3,0.17,1.8
+Game_74,Mobile,2001.0,Puzzle,Ubisoft,2.71,1.4,0.04,0.38,4.53
+Game_75,PS5,2009.0,Action,Bandai Namco,0.4,0.31,0.25,0.25,1.21
+Game_76,Mobile,2003.0,Puzzle,Bethesda,2.24,0.78,1.2,0.17,4.39
+Game_77,PS4,2013.0,RPG,Activision,0.78,1.3,0.83,0.12,3.03
+Game_78,PC,2015.0,RPG,EA,1.38,0.11,0.12,0.55,2.16
+Game_79,PS4,2014.0,Puzzle,Sony,1.5,1.16,0.31,0.05,3.02
+Game_80,Xbox Series X,2007.0,Strategy,Bandai Namco,0.7,0.1,0.85,0.17,1.82
+Game_81,PS4,2013.0,Adventure,Bethesda,1.08,3.36,0.03,0.7,5.17
+Game_82,PS4,2022.0,Shooter,2K Games,0.8,0.67,0.25,0.56,2.28
+Game_83,Xbox Series X,2007.0,Strategy,Rockstar,0.11,0.16,0.95,0.15,1.37
+Game_84,Nintendo Switch,2020.0,Puzzle,Sony,0.86,0.42,0.26,0.43,1.97
+Game_85,PS4,2015.0,Racing,2K Games,0.15,0.53,0.04,0.52,1.24
+Game_86,Xbox Series X,2012.0,Sports,Bethesda,0.78,1.42,0.39,0.66,3.25
+Game_87,PS5,2017.0,Shooter,Sony,1.35,1.36,0.99,0.24,3.94
+Game_88,PC,2014.0,Shooter,Bandai Namco,1.3,0.95,0.45,0.07,2.77
+Game_89,PC,2020.0,RPG,Bethesda,1.63,0.11,0.13,0.09,1.96
+Game_90,PS4,2023.0,Shooter,Capcom,0.15,0.16,0.24,0.11,0.66
+Game_91,Nintendo Switch,2012.0,Puzzle,Activision,1.58,0.1,0.3,0.27,2.25
+Game_92,Nintendo Switch,2008.0,Racing,Bandai Namco,0.56,0.86,0.43,0.01,1.86
+Game_93,PS5,2014.0,Racing,Sony,0.76,2.1,0.71,0.3,3.87
+Game_94,PS4,2012.0,Action,Rockstar,2.93,0.57,0.05,0.14,3.69
+Game_95,PC,2000.0,Racing,2K Games,0.01,0.18,1.1,0.1,1.39
+Game_96,Nintendo Switch,2006.0,Strategy,EA,1.33,0.82,0.01,0.63,2.79
+Game_97,PS4,2008.0,Racing,2K Games,1.37,1.67,0.23,0.18,3.45
+Game_98,Mobile,2023.0,RPG,Sony,0.76,1.35,0.01,0.03,2.15
+Game_99,Nintendo Switch,2000.0,Racing,2K Games,0.41,2.13,0.25,0.53,3.32
+Game_100,Xbox Series X,2011.0,Action,Activision,0.4,0.33,0.37,0.01,1.11
+Game_101,Mobile,2007.0,Sports,Bethesda,3.23,0.22,0.36,0.39,4.2
+Game_102,Nintendo Switch,2023.0,Puzzle,EA,0.88,2.12,0.09,0.45,3.54
+Game_103,PC,2010.0,RPG,Nintendo,0.6,1.07,0.52,0.13,2.32
+Game_104,Xbox One,2018.0,Strategy,Sony,0.89,0.37,0.02,0.52,1.8
+Game_105,Mobile,2016.0,Sports,Ubisoft,1.66,1.36,0.72,0.22,3.96
+Game_106,PS5,2007.0,RPG,Nintendo,0.24,1.69,1.47,0.19,3.59
+Game_107,PS5,2002.0,Adventure,2K Games,0.9,0.95,0.21,0.01,2.07
+Game_108,PC,2002.0,Shooter,Sony,1.33,1.16,0.36,0.1,2.95
+Game_109,Nintendo Switch,2000.0,Adventure,Capcom,4.45,0.47,0.24,0.8,5.96
+Game_110,PS4,2004.0,Racing,Ubisoft,0.44,0.77,0.0,0.15,1.36
+Game_111,Nintendo Switch,2009.0,Sports,EA,0.67,0.74,0.24,0.24,1.89
+Game_112,PC,2006.0,Racing,Rockstar,0.72,1.88,0.78,0.23,3.61
+Game_113,PS5,2008.0,Shooter,Capcom,1.4,1.83,0.45,0.27,3.95
+Game_114,Nintendo Switch,2006.0,RPG,Nintendo,0.66,1.79,0.05,0.02,2.52
+Game_115,PS5,,Shooter,Bethesda,1.14,0.01,0.94,0.13,2.22
+Game_116,Mobile,2007.0,Action,Activision,2.28,1.38,0.38,0.39,4.43
+Game_117,PS4,2011.0,Shooter,Rockstar,1.83,1.42,0.92,0.07,4.24
+Game_118,Mobile,2001.0,Action,Capcom,0.89,1.13,0.43,0.07,2.52
+Game_119,PS5,2000.0,Shooter,Bethesda,3.0,1.41,0.41,0.0,4.82
+Game_120,PS5,2015.0,Puzzle,Bethesda,1.23,1.84,0.06,0.17,3.3
+Game_121,Xbox One,2022.0,Action,Sony,1.16,0.64,0.09,0.64,2.53
+Game_122,Xbox One,2022.0,Sports,Capcom,0.05,0.7,1.79,0.02,2.56
+Game_123,Mobile,2023.0,Racing,EA,6.48,0.13,0.13,0.06,6.8
+Game_124,Xbox Series X,2004.0,Strategy,2K Games,0.2,0.49,1.9,0.11,2.7
+Game_125,Mobile,2002.0,Racing,Ubisoft,0.39,1.03,0.38,0.39,2.19
+Game_126,Xbox One,2011.0,Adventure,Ubisoft,0.08,1.52,0.07,0.31,1.98
+Game_127,PS5,2007.0,Racing,Nintendo,1.53,0.24,0.05,0.16,1.98
+Game_128,PC,2021.0,RPG,Nintendo,0.38,0.15,0.12,0.43,1.08
+Game_129,Mobile,2002.0,Puzzle,Ubisoft,0.3,1.09,1.3,0.28,2.97
+Game_130,PS5,2000.0,Shooter,EA,0.14,0.0,0.27,0.68,1.09
+Game_131,PC,2002.0,Adventure,Activision,0.16,0.2,0.25,0.51,1.12
+Game_132,PC,2004.0,RPG,Bandai Namco,1.32,0.03,0.19,0.09,1.63
+Game_133,Xbox One,2014.0,RPG,2K Games,1.75,0.18,0.08,0.1,2.11
+Game_134,Mobile,2013.0,Action,Activision,0.76,0.2,0.33,0.04,1.33
+Game_135,Nintendo Switch,,Racing,Sony,0.98,0.49,0.07,0.12,1.66
+Game_136,PS4,2000.0,Sports,Bandai Namco,1.74,0.51,0.9,2.31,5.46
+Game_137,Xbox One,2004.0,Strategy,Bandai Namco,0.03,2.07,0.23,0.16,2.49
+Game_138,Xbox One,2022.0,Sports,Capcom,0.59,0.71,0.23,0.07,1.6
+Game_139,Nintendo Switch,2013.0,Adventure,EA,5.42,1.29,0.32,0.43,7.46
+Game_140,PS4,2006.0,Puzzle,EA,1.3,0.11,0.29,0.23,1.93
+Game_141,PS5,2008.0,Sports,Bandai Namco,0.44,0.26,2.64,0.05,3.39
+Game_142,Xbox Series X,2014.0,Shooter,Capcom,1.11,1.21,0.39,0.14,2.85
+Game_143,Mobile,2014.0,Sports,2K Games,0.63,0.05,0.05,0.16,0.89
+Game_144,Xbox Series X,2009.0,Adventure,Bandai Namco,1.14,0.67,0.47,0.42,2.7
+Game_145,PS5,2012.0,Strategy,Rockstar,0.2,0.91,0.08,0.01,1.2
+Game_146,Xbox One,2018.0,Sports,Nintendo,0.21,0.92,0.02,0.09,1.24
+Game_147,PS4,2006.0,Shooter,Nintendo,0.23,0.02,1.77,0.22,2.24
+Game_148,Xbox One,2016.0,Action,Activision,4.22,0.39,0.74,0.09,5.44
+Game_149,PC,2019.0,Puzzle,Sony,1.98,1.01,1.96,0.3,5.25
+Game_150,Xbox One,2003.0,Adventure,Nintendo,0.27,0.16,0.32,0.2,0.95
+Game_151,Xbox One,2004.0,Action,Bethesda,0.31,1.19,0.38,0.13,2.01
+Game_152,PS5,2022.0,Action,Activision,1.97,1.37,0.09,0.89,4.32
+Game_153,PS5,2006.0,Action,Nintendo,0.25,4.02,0.14,0.3,4.71
+Game_154,PS5,,RPG,Sony,0.4,0.24,0.91,0.04,1.59
+Game_155,Xbox Series X,2014.0,Puzzle,EA,4.96,1.74,0.22,0.25,7.17
+Game_156,PC,2010.0,Strategy,EA,0.44,0.73,0.88,0.46,2.51
+Game_157,PS5,2003.0,Racing,2K Games,1.63,0.47,0.62,0.37,3.09
+Game_158,PS4,2012.0,Puzzle,Bandai Namco,5.77,0.13,0.1,0.06,6.06
+Game_159,Xbox Series X,2006.0,RPG,Rockstar,0.7,1.33,0.35,1.08,3.46
+Game_160,Nintendo Switch,2018.0,Racing,EA,0.03,0.27,0.57,0.18,1.05
+Game_161,PS4,2021.0,Puzzle,Capcom,0.42,0.46,0.13,0.05,1.06
+Game_162,Mobile,2001.0,Action,Nintendo,2.67,0.06,0.89,0.06,3.68
+Game_163,Mobile,2009.0,Adventure,Capcom,3.0,1.62,0.39,0.03,5.04
+Game_164,PS4,2012.0,Racing,Sony,2.19,1.45,0.09,0.49,4.22
+Game_165,PS5,2020.0,Shooter,EA,0.18,1.32,0.44,0.04,1.98
+Game_166,Nintendo Switch,2005.0,Shooter,Rockstar,2.38,0.36,4.08,0.04,6.86
+Game_167,Nintendo Switch,2011.0,Sports,Sony,3.76,0.19,0.08,0.57,4.6
+Game_168,Xbox Series X,2011.0,Racing,Bethesda,1.38,1.01,0.85,0.13,3.37
+Game_169,Nintendo Switch,2019.0,Adventure,Bethesda,4.24,0.69,0.12,0.01,5.06
+Game_170,Mobile,2010.0,Strategy,Capcom,2.63,0.2,0.76,0.02,3.61
+Game_171,PC,2022.0,RPG,Bandai Namco,1.65,1.16,0.66,0.05,3.52
+Game_172,PS5,2006.0,Action,Activision,1.29,4.72,0.18,0.07,6.26
+Game_173,Nintendo Switch,2000.0,Sports,Bandai Namco,0.64,1.38,0.2,0.33,2.55
+Game_174,Xbox Series X,2000.0,Shooter,2K Games,0.26,1.35,0.79,0.05,2.45
+Game_175,Mobile,2019.0,RPG,Bandai Namco,1.39,3.0,0.31,0.04,4.74
+Game_176,PC,2012.0,RPG,2K Games,0.57,0.23,0.66,0.43,1.89
+Game_177,Xbox One,2008.0,Action,2K Games,3.02,0.83,0.08,0.33,4.26
+Game_178,Xbox One,2002.0,Strategy,Rockstar,7.52,3.89,0.96,0.17,12.54
+Game_179,PC,2006.0,Strategy,EA,2.09,0.18,0.62,0.24,3.13
+Game_180,Mobile,2005.0,Racing,Rockstar,0.14,1.2,1.19,0.11,2.64
+Game_181,Xbox Series X,2007.0,Shooter,2K Games,0.51,0.88,0.07,0.2,1.66
+Game_182,PC,2008.0,Strategy,Sony,0.17,0.88,0.45,0.21,1.71
+Game_183,PS5,2004.0,Adventure,Bethesda,1.58,1.2,0.46,0.15,3.39
+Game_184,PS5,2000.0,Strategy,2K Games,2.17,2.65,0.22,0.71,5.75
+Game_185,Xbox One,2018.0,RPG,Rockstar,3.9,1.53,0.31,0.0,5.74
+Game_186,Nintendo Switch,2009.0,Action,Sony,0.86,0.06,0.02,0.46,1.4
+Game_187,Xbox Series X,2011.0,Adventure,Rockstar,3.47,1.92,0.68,0.04,6.11
+Game_188,Xbox One,2023.0,Racing,Bandai Namco,3.15,0.26,0.4,0.48,4.29
+Game_189,Nintendo Switch,2014.0,Shooter,Nintendo,0.57,0.47,0.03,0.29,1.36
+Game_190,Nintendo Switch,2021.0,Racing,Capcom,3.05,0.62,0.57,0.56,4.8
+Game_191,PS5,2023.0,RPG,Activision,0.71,0.66,0.31,0.03,1.71
+Game_192,Mobile,2008.0,Adventure,Rockstar,0.53,0.57,0.02,0.25,1.37
+Game_193,PS4,2019.0,Adventure,Activision,1.57,2.77,1.75,0.21,6.3
+Game_194,Mobile,2016.0,Adventure,Ubisoft,0.6,1.22,1.49,0.37,3.68
+Game_195,PS4,2016.0,RPG,Rockstar,1.49,1.0,0.36,0.23,3.08
+Game_196,PC,2019.0,RPG,Nintendo,1.41,0.05,0.05,0.23,1.74
+Game_197,PS5,2011.0,Racing,Activision,1.24,2.34,0.7,0.17,4.45
+Game_198,Nintendo Switch,2006.0,Sports,2K Games,0.72,2.4,0.34,0.11,3.57
+Game_199,Xbox Series X,2001.0,Racing,Rockstar,1.19,1.52,0.18,0.2,3.09
+Game_200,PS4,2002.0,Shooter,EA,1.36,0.01,0.34,0.04,1.75
+Game_201,Mobile,2016.0,Action,Capcom,1.18,0.06,0.37,0.98,2.59
+Game_202,Nintendo Switch,,Adventure,Nintendo,0.88,0.26,0.41,0.38,1.93
+Game_203,PS4,2016.0,Sports,Activision,0.02,0.14,0.29,0.91,1.36
+Game_204,PS4,2023.0,Action,Nintendo,1.33,0.51,0.47,0.08,2.39
+Game_205,PS4,2016.0,Sports,Sony,0.28,2.56,1.26,0.63,4.73
+Game_206,Xbox Series X,2016.0,Strategy,Capcom,1.54,0.64,0.22,0.5,2.9
+Game_207,PS5,2001.0,Strategy,2K Games,2.14,0.01,0.65,0.34,3.14
+Game_208,Xbox Series X,2001.0,Puzzle,Rockstar,1.04,0.33,1.12,0.29,2.78
+Game_209,Xbox One,2021.0,Strategy,Rockstar,1.17,0.05,0.3,0.11,1.63
+Game_210,Nintendo Switch,2022.0,Racing,Rockstar,4.54,0.04,0.29,0.51,5.38
+Game_211,PS5,2004.0,Strategy,Capcom,2.82,0.32,0.46,0.21,3.81
+Game_212,PS5,2000.0,RPG,EA,3.68,0.32,0.45,0.02,4.47
+Game_213,PS5,2000.0,Adventure,Ubisoft,2.52,1.55,0.82,0.11,5.0
+Game_214,Mobile,2018.0,Racing,Bethesda,0.17,3.68,0.32,0.82,4.99
+Game_215,PS5,2001.0,Action,Bandai Namco,0.24,0.46,2.78,0.57,4.05
+Game_216,Xbox Series X,2020.0,Puzzle,Activision,1.12,0.56,0.03,1.2,2.91
+Game_217,PS5,2011.0,Puzzle,EA,0.42,1.86,0.0,0.3,2.58
+Game_218,PC,2005.0,Puzzle,2K Games,0.97,0.31,0.51,0.09,1.88
+Game_219,Nintendo Switch,2022.0,Action,Activision,0.75,0.17,0.18,0.05,1.15
+Game_220,PS5,2003.0,Action,Rockstar,1.2,1.92,0.14,0.06,3.32
+Game_221,Nintendo Switch,2022.0,Action,Nintendo,2.06,0.05,0.19,0.01,2.31
+Game_222,PC,2010.0,Action,2K Games,1.89,0.97,0.15,0.15,3.16
+Game_223,PC,2023.0,Puzzle,Activision,1.1,0.83,0.02,0.06,2.01
+Game_224,Nintendo Switch,2016.0,Puzzle,Rockstar,2.59,0.42,1.78,0.16,4.95
+Game_225,PS4,2005.0,Sports,Activision,0.85,0.38,0.12,0.82,2.17
+Game_226,Xbox One,2023.0,Racing,Nintendo,3.41,1.48,0.66,0.17,5.72
+Game_227,Mobile,2004.0,Adventure,Rockstar,0.11,0.09,0.72,0.63,1.55
+Game_228,PS4,2019.0,Strategy,Ubisoft,4.64,0.27,1.32,0.28,6.51
+Game_229,PS4,2001.0,Strategy,EA,1.59,1.32,0.02,0.09,3.02
+Game_230,Xbox Series X,2005.0,RPG,Sony,0.72,0.79,1.03,0.13,2.67
+Game_231,Mobile,2021.0,Puzzle,Bandai Namco,0.33,0.14,0.37,0.03,0.87
+Game_232,Mobile,2010.0,RPG,Capcom,0.98,2.14,0.5,0.12,3.74
+Game_233,PS4,2015.0,Racing,Bandai Namco,0.32,0.5,0.52,0.34,1.68
+Game_234,PS5,2015.0,Racing,2K Games,0.27,1.76,0.86,0.02,2.91
+Game_235,Xbox Series X,2000.0,RPG,Bandai Namco,1.44,1.55,0.2,0.07,3.26
+Game_236,Xbox Series X,2008.0,Puzzle,Rockstar,1.11,0.98,0.66,0.14,2.89
+Game_237,PC,2005.0,RPG,Ubisoft,1.66,0.68,0.38,1.21,3.93
+Game_238,Mobile,2015.0,Strategy,Sony,3.98,3.89,0.79,0.46,9.12
+Game_239,PS4,2002.0,Sports,EA,1.14,0.16,2.33,0.4,4.03
+Game_240,PC,2019.0,Strategy,EA,1.3,1.29,0.11,0.04,2.74
+Game_241,Nintendo Switch,2003.0,Shooter,Nintendo,0.14,0.21,2.62,0.46,3.43
+Game_242,Xbox One,2018.0,Puzzle,Capcom,1.9,0.41,0.05,0.46,2.82
+Game_243,Xbox Series X,2002.0,Puzzle,Activision,0.77,0.37,0.0,0.28,1.42
+Game_244,Nintendo Switch,2018.0,Adventure,Ubisoft,5.64,2.94,0.02,1.39,9.99
+Game_245,Nintendo Switch,2019.0,Action,Activision,2.6,3.42,0.21,0.12,6.35
+Game_246,PS5,2006.0,Shooter,Sony,1.11,0.2,0.5,0.85,2.66
+Game_247,Xbox One,2019.0,Racing,Bandai Namco,0.2,0.02,0.04,0.74,1.0
+Game_248,Nintendo Switch,2008.0,Puzzle,EA,2.94,1.27,0.0,0.0,4.21
+Game_249,Nintendo Switch,2000.0,RPG,Sony,2.41,0.54,1.38,0.18,4.51
+Game_250,Xbox One,2007.0,Shooter,Bandai Namco,0.31,0.09,0.86,1.13,2.39
+Game_251,Xbox One,2006.0,Adventure,EA,0.52,1.15,0.83,0.03,2.53
+Game_252,Nintendo Switch,2017.0,Racing,Bandai Namco,2.37,0.79,1.08,0.24,4.48
+Game_253,Xbox One,2007.0,Action,Capcom,0.31,3.94,0.6,1.16,6.01
+Game_254,Nintendo Switch,2000.0,Action,Ubisoft,3.75,0.26,0.06,0.24,4.31
+Game_255,Nintendo Switch,2010.0,Adventure,2K Games,0.83,0.52,0.25,0.06,1.66
+Game_256,PS5,2017.0,Adventure,Sony,0.14,0.78,0.64,0.26,1.82
+Game_257,PS4,2022.0,RPG,Sony,2.54,1.57,0.16,0.07,4.34
+Game_258,Nintendo Switch,2009.0,Puzzle,Bethesda,0.7,0.8,0.58,0.22,2.3
+Game_259,PC,2002.0,Action,Rockstar,1.12,0.95,0.01,0.02,2.1
+Game_260,Xbox Series X,2006.0,Racing,Capcom,0.18,0.26,0.18,0.28,0.9
+Game_261,Mobile,2015.0,Shooter,Capcom,0.0,1.88,0.4,0.22,2.5
+Game_262,PS4,2015.0,Racing,Activision,1.52,0.56,0.5,0.4,2.98
+Game_263,PS4,2019.0,Sports,Bandai Namco,1.09,0.15,0.43,0.3,1.97
+Game_264,PS4,2016.0,Sports,Rockstar,1.35,1.09,0.6,0.24,3.28
+Game_265,PS5,2001.0,Adventure,Ubisoft,2.37,0.24,0.0,0.35,2.96
+Game_266,Nintendo Switch,2000.0,RPG,Ubisoft,1.56,0.1,0.05,0.05,1.76
+Game_267,PS5,2015.0,Sports,Capcom,0.29,1.98,1.02,0.27,3.56
+Game_268,Nintendo Switch,2011.0,Action,Ubisoft,0.67,0.62,0.57,0.06,1.92
+Game_269,PS5,2004.0,Racing,Bethesda,3.54,1.38,0.06,0.78,5.76
+Game_270,PS5,2004.0,Racing,Sony,2.2,0.34,0.92,0.02,3.48
+Game_271,Xbox Series X,2022.0,Adventure,Nintendo,1.22,1.55,0.14,0.17,3.08
+Game_272,PC,2008.0,Puzzle,2K Games,0.44,0.12,0.33,0.36,1.25
+Game_273,PS5,2008.0,Puzzle,Activision,0.54,0.44,0.08,0.18,1.24
+Game_274,Xbox Series X,2002.0,Shooter,Bandai Namco,1.97,3.82,0.62,0.03,6.44
+Game_275,Xbox One,2018.0,Adventure,2K Games,2.86,1.58,0.55,0.24,5.23
+Game_276,PC,2015.0,Strategy,Bandai Namco,1.67,0.69,0.12,0.31,2.79
+Game_277,PS5,2015.0,Shooter,EA,2.49,0.42,1.0,0.37,4.28
+Game_278,Mobile,2002.0,Strategy,2K Games,2.18,2.06,0.26,0.14,4.64
+Game_279,PS4,2019.0,Puzzle,Nintendo,0.24,0.79,0.17,0.25,1.45
+Game_280,Xbox One,2023.0,Adventure,Capcom,0.83,1.42,0.08,0.18,2.51
+Game_281,Xbox One,2021.0,Strategy,Bethesda,0.25,1.4,0.15,0.33,2.13
+Game_282,Xbox Series X,2023.0,Adventure,Sony,0.4,0.02,0.01,0.26,0.69
+Game_283,Xbox One,2000.0,Adventure,Sony,3.05,0.13,0.44,0.22,3.84
+Game_284,PC,2023.0,Puzzle,Bethesda,0.96,1.08,0.92,0.09,3.05
+Game_285,PS5,2019.0,Shooter,Rockstar,1.15,0.18,0.4,0.0,1.73
+Game_286,PS5,2010.0,Shooter,EA,0.29,0.3,0.12,0.06,0.77
+Game_287,Mobile,2016.0,Adventure,Bandai Namco,0.56,2.93,0.02,0.04,3.55
+Game_288,PS4,2007.0,Sports,Nintendo,0.39,0.82,0.12,0.18,1.51
+Game_289,Xbox Series X,2003.0,RPG,Ubisoft,0.35,1.39,0.27,0.28,2.29
+Game_290,PS4,2005.0,Puzzle,2K Games,1.52,0.82,0.71,0.07,3.12
+Game_291,Xbox One,2007.0,RPG,EA,0.45,0.8,0.1,0.84,2.19
+Game_292,Mobile,2019.0,RPG,2K Games,1.5,0.1,0.64,0.0,2.24
+Game_293,PS4,2002.0,Shooter,Nintendo,0.09,0.42,1.01,0.44,1.96
+Game_294,PC,2015.0,Shooter,Activision,0.23,0.33,0.3,0.29,1.15
+Game_295,PS5,2002.0,Sports,Activision,0.48,0.5,0.86,0.14,1.98
+Game_296,Xbox One,2017.0,RPG,EA,1.36,1.6,0.4,0.02,3.38
+Game_297,Mobile,2013.0,RPG,Capcom,1.69,0.47,0.51,0.3,2.97
+Game_298,PS4,2017.0,Adventure,Nintendo,0.88,0.6,0.37,0.15,2.0
+Game_299,Xbox Series X,2001.0,Shooter,Nintendo,0.89,0.51,0.31,0.83,2.54
+Game_300,PC,2021.0,RPG,Bethesda,1.93,0.1,0.13,0.23,2.39
+Game_301,PC,2002.0,Racing,Capcom,0.02,0.58,0.18,0.84,1.62
+Game_302,PS4,2015.0,Sports,Bandai Namco,0.63,0.22,0.17,0.07,1.09
+Game_303,PS5,2008.0,Strategy,Bandai Namco,2.56,0.21,0.41,0.39,3.57
+Game_304,PS4,2003.0,Racing,Ubisoft,1.39,0.1,0.06,0.29,1.84
+Game_305,Xbox One,2000.0,Racing,Sony,0.62,0.44,1.24,0.4,2.7
+Game_306,PS4,2003.0,Strategy,Activision,3.54,1.42,0.64,0.07,5.67
+Game_307,PC,2000.0,Puzzle,Bandai Namco,2.22,0.32,0.26,0.33,3.13
+Game_308,Mobile,2013.0,Puzzle,Capcom,0.46,0.37,0.09,0.21,1.13
+Game_309,PS4,2020.0,Sports,Nintendo,1.55,1.03,1.07,0.41,4.06
+Game_310,PS5,2015.0,Racing,Bandai Namco,1.36,0.22,0.87,0.12,2.57
+Game_311,Mobile,2019.0,RPG,Nintendo,0.77,2.27,0.64,0.66,4.34
+Game_312,Xbox Series X,2023.0,Shooter,Bandai Namco,0.69,0.73,0.16,0.03,1.61
+Game_313,Nintendo Switch,2007.0,Sports,Activision,0.63,0.59,0.26,0.49,1.97
+Game_314,PS4,2006.0,Adventure,2K Games,1.44,0.82,0.05,0.59,2.9
+Game_315,PS5,2002.0,Strategy,Bandai Namco,0.88,0.18,0.1,0.51,1.67
+Game_316,Mobile,2016.0,Racing,Capcom,2.67,0.95,0.76,0.22,4.6
+Game_317,PS5,2000.0,Sports,Bandai Namco,1.66,0.45,0.63,0.17,2.91
+Game_318,Xbox Series X,2015.0,Action,Sony,0.11,2.27,0.45,1.68,4.51
+Game_319,PC,2011.0,Action,Activision,1.53,0.18,1.13,0.08,2.92
+Game_320,PS5,2018.0,Puzzle,Capcom,0.47,0.71,0.44,0.24,1.86
+Game_321,Mobile,2021.0,Strategy,Bethesda,1.35,0.91,0.31,0.33,2.9
+Game_322,PS5,2022.0,Shooter,Capcom,1.71,0.03,0.21,0.36,2.31
+Game_323,PS5,2021.0,RPG,Sony,0.39,0.45,1.41,0.07,2.32
+Game_324,PS5,2013.0,Shooter,2K Games,0.92,1.32,0.04,0.32,2.6
+Game_325,Xbox One,,Shooter,Activision,0.32,1.72,1.34,0.51,3.89
+Game_326,Xbox One,2005.0,Shooter,Bethesda,0.08,0.38,0.88,0.02,1.36
+Game_327,PC,2012.0,Strategy,Sony,0.71,1.6,0.07,0.73,3.11
+Game_328,PS4,2018.0,Shooter,Sony,0.68,3.43,0.42,0.01,4.54
+Game_329,PS5,2021.0,Adventure,EA,8.1,1.94,1.01,0.13,11.18
+Game_330,Xbox Series X,2007.0,Strategy,Activision,0.89,0.13,0.42,0.0,1.44
+Game_331,PS4,2001.0,Adventure,Capcom,0.61,1.35,1.19,0.02,3.17
+Game_332,Xbox Series X,2020.0,Strategy,Nintendo,1.3,0.39,1.43,0.73,3.85
+Game_333,PS4,2000.0,Puzzle,2K Games,0.14,4.46,0.27,0.13,5.0
+Game_334,PC,2014.0,Sports,Nintendo,4.89,0.66,0.24,0.17,5.96
+Game_335,PS5,2000.0,Action,Capcom,1.51,0.13,1.38,0.07,3.09
+Game_336,PS5,2004.0,Shooter,Capcom,2.11,1.29,0.56,0.27,4.23
+Game_337,Nintendo Switch,2015.0,Puzzle,Activision,0.28,0.39,0.06,0.27,1.0
+Game_338,Xbox Series X,2018.0,Sports,Capcom,0.79,5.84,0.02,0.14,6.79
+Game_339,PS4,2003.0,Action,EA,0.82,3.9,0.42,0.12,5.26
+Game_340,PS4,2002.0,Racing,Bethesda,2.59,1.07,1.33,0.65,5.64
+Game_341,Xbox One,2016.0,RPG,Capcom,0.0,0.14,0.93,0.15,1.22
+Game_342,Nintendo Switch,2016.0,Adventure,Nintendo,0.54,1.16,0.56,0.2,2.46
+Game_343,Mobile,2011.0,Racing,Capcom,5.96,0.1,0.07,0.1,6.23
+Game_344,Mobile,2013.0,Strategy,EA,0.97,0.03,0.15,0.46,1.61
+Game_345,Xbox One,2020.0,Action,Bandai Namco,0.72,1.73,1.04,0.15,3.64
+Game_346,Xbox One,2005.0,Racing,Bandai Namco,0.19,0.24,0.1,0.22,0.75
+Game_347,Xbox One,2002.0,RPG,Sony,5.48,0.48,0.16,0.09,6.21
+Game_348,Xbox Series X,2008.0,Puzzle,2K Games,0.03,3.63,0.07,1.32,5.05
+Game_349,Xbox Series X,2004.0,Action,Ubisoft,2.0,0.41,0.56,0.1,3.07
+Game_350,PC,2023.0,Racing,Bethesda,2.2,0.35,1.44,0.44,4.43
+Game_351,PC,2016.0,Adventure,Rockstar,0.42,2.5,0.16,0.17,3.25
+Game_352,Xbox One,2013.0,Adventure,Sony,1.67,0.12,0.32,0.07,2.18
+Game_353,Nintendo Switch,2020.0,Sports,2K Games,0.15,1.43,0.5,0.48,2.56
+Game_354,PS4,2002.0,Racing,Bandai Namco,0.45,4.43,3.77,0.12,8.77
+Game_355,Xbox Series X,2000.0,Shooter,Nintendo,2.33,2.32,0.06,0.6,5.31
+Game_356,Nintendo Switch,2019.0,Racing,Rockstar,3.0,1.05,0.35,0.74,5.14
+Game_357,PS5,2020.0,Puzzle,2K Games,1.41,0.38,0.24,0.59,2.62
+Game_358,Xbox Series X,2022.0,Action,2K Games,1.06,0.29,1.0,0.01,2.36
+Game_359,Xbox Series X,2000.0,Action,Sony,0.26,1.71,0.32,0.46,2.75
+Game_360,PC,2002.0,Puzzle,Rockstar,0.1,2.12,0.06,0.16,2.44
+Game_361,PS4,2017.0,Racing,Activision,0.19,0.75,0.5,0.62,2.06
+Game_362,PS4,2009.0,Puzzle,Ubisoft,0.39,0.28,0.74,0.3,1.71
+Game_363,Mobile,2021.0,RPG,Activision,0.63,0.12,0.0,0.54,1.29
+Game_364,Mobile,2002.0,Strategy,Rockstar,0.72,0.09,0.98,0.21,2.0
+Game_365,Mobile,2007.0,Puzzle,Activision,0.64,1.27,0.1,0.23,2.24
+Game_366,Mobile,2013.0,Adventure,EA,0.41,0.54,0.4,0.05,1.4
+Game_367,PS5,2023.0,Puzzle,Bandai Namco,1.07,2.36,0.27,0.46,4.16
+Game_368,PS5,2017.0,Action,EA,2.62,1.35,0.64,0.16,4.77
+Game_369,Xbox Series X,2014.0,Adventure,Capcom,0.49,0.21,0.23,0.21,1.14
+Game_370,Xbox One,2021.0,Action,Activision,4.28,0.95,1.02,0.46,6.71
+Game_371,PC,2022.0,Sports,Capcom,3.1,0.57,0.66,0.27,4.6
+Game_372,PC,2001.0,Shooter,Nintendo,0.26,0.86,0.52,0.07,1.71
+Game_373,Mobile,2009.0,Action,Bethesda,2.31,1.34,0.8,0.27,4.72
+Game_374,Xbox Series X,2001.0,Adventure,Nintendo,1.28,1.64,0.7,0.16,3.78
+Game_375,Nintendo Switch,2016.0,Sports,Rockstar,1.25,1.86,0.02,0.19,3.32
+Game_376,Xbox One,2007.0,Action,2K Games,0.74,0.29,0.25,0.01,1.29
+Game_377,Xbox Series X,2000.0,RPG,Bandai Namco,1.04,0.03,1.34,0.07,2.48
+Game_378,Xbox One,2008.0,Puzzle,Activision,0.76,1.34,0.07,0.1,2.27
+Game_379,Xbox One,2010.0,Shooter,Sony,1.16,0.11,0.67,0.37,2.31
+Game_380,Xbox One,2021.0,Action,Bethesda,1.48,0.38,1.84,0.0,3.7
+Game_381,Xbox Series X,2015.0,Sports,Ubisoft,1.68,0.0,0.03,0.16,1.87
+Game_382,Mobile,2006.0,RPG,Ubisoft,1.14,1.14,0.57,0.77,3.62
+Game_383,PC,2009.0,Racing,Ubisoft,1.92,0.18,0.32,0.04,2.46
+Game_384,PC,2022.0,Sports,Activision,0.23,1.07,0.43,0.22,1.95
+Game_385,Mobile,2002.0,Puzzle,Ubisoft,0.36,4.8,0.04,0.46,5.66
+Game_386,Xbox One,2017.0,Sports,EA,2.56,0.08,0.02,0.86,3.52
+Game_387,Nintendo Switch,2023.0,RPG,Bethesda,0.58,0.08,0.55,0.41,1.62
+Game_388,PS4,2012.0,Sports,EA,0.03,0.42,0.87,0.38,1.7
+Game_389,Xbox Series X,2006.0,RPG,2K Games,0.25,2.01,0.76,0.53,3.55
+Game_390,PS4,2003.0,Action,Bethesda,0.38,0.24,0.39,0.18,1.19
+Game_391,Mobile,2012.0,Strategy,EA,4.73,0.45,0.05,0.49,5.72
+Game_392,Nintendo Switch,2019.0,RPG,Bethesda,1.28,0.07,0.58,0.0,1.93
+Game_393,Xbox Series X,2000.0,RPG,2K Games,4.05,1.44,0.14,0.78,6.41
+Game_394,Mobile,2007.0,Shooter,Capcom,1.28,0.52,1.21,0.18,3.19
+Game_395,Xbox One,2013.0,RPG,Activision,0.98,1.42,0.91,0.24,3.55
+Game_396,PC,2015.0,RPG,Activision,0.56,2.34,0.62,0.09,3.61
+Game_397,PS4,2013.0,Racing,Ubisoft,1.4,0.26,1.49,0.41,3.56
+Game_398,PS5,2011.0,Strategy,Nintendo,0.22,1.65,0.02,0.02,1.91
+Game_399,PS5,2018.0,Action,Ubisoft,3.43,0.06,0.67,0.62,4.78
+Game_400,Nintendo Switch,2022.0,Puzzle,Rockstar,2.65,2.29,0.2,0.53,5.67
+Game_401,Xbox One,2014.0,Shooter,EA,0.57,1.05,1.18,0.07,2.87
+Game_402,PS4,2001.0,Racing,Bethesda,4.58,2.07,0.16,0.5,7.31
+Game_403,Xbox One,2001.0,Adventure,Nintendo,2.62,0.0,0.65,0.46,3.73
+Game_404,PS4,,Strategy,2K Games,1.65,0.19,1.05,0.3,3.19
+Game_405,Nintendo Switch,2021.0,Action,Rockstar,0.19,0.49,0.02,0.14,0.84
+Game_406,Nintendo Switch,2018.0,Action,2K Games,0.98,0.48,0.25,0.1,1.81
+Game_407,PS5,2021.0,Adventure,Activision,1.06,0.26,0.72,0.08,2.12
+Game_408,Xbox One,2021.0,Puzzle,Activision,0.4,0.48,0.3,0.12,1.3
+Game_409,Xbox Series X,2016.0,RPG,Ubisoft,0.13,0.14,0.16,0.7,1.13
+Game_410,PS5,2019.0,Racing,EA,2.25,0.53,0.12,0.02,2.92
+Game_411,Xbox One,2009.0,Sports,Nintendo,0.2,1.62,0.07,0.53,2.42
+Game_412,PS5,2005.0,Shooter,Bandai Namco,1.35,0.65,0.97,0.13,3.1
+Game_413,Xbox Series X,2014.0,Sports,Rockstar,4.13,0.02,0.43,0.22,4.8
+Game_414,PC,2021.0,Adventure,Rockstar,3.13,0.55,0.04,0.47,4.19
+Game_415,PC,2010.0,Action,Ubisoft,0.49,0.03,0.24,0.65,1.41
+Game_416,PC,2004.0,Puzzle,Activision,2.86,3.39,0.23,0.13,6.61
+Game_417,PC,2000.0,Action,Ubisoft,0.0,0.14,0.1,0.19,0.43
+Game_418,Mobile,2007.0,Shooter,Bethesda,0.03,1.23,0.29,0.16,1.71
+Game_419,PS4,2020.0,Action,Nintendo,1.38,3.6,0.2,0.0,5.18
+Game_420,Mobile,2011.0,Action,EA,0.68,1.75,0.21,0.11,2.75
+Game_421,Mobile,2011.0,Shooter,Capcom,0.73,1.2,0.67,0.18,2.78
+Game_422,Mobile,2004.0,Racing,Sony,1.25,1.83,0.13,0.16,3.37
+Game_423,PC,2006.0,Racing,Sony,0.32,4.01,0.51,0.38,5.22
+Game_424,Xbox Series X,2003.0,Shooter,Ubisoft,0.36,0.97,0.42,0.15,1.9
+Game_425,Nintendo Switch,2005.0,Puzzle,Bethesda,0.99,0.82,0.42,0.2,2.43
+Game_426,Nintendo Switch,2012.0,Adventure,Nintendo,2.11,0.99,0.54,0.17,3.81
+Game_427,PS4,2019.0,Strategy,Bandai Namco,1.45,0.76,0.4,0.4,3.01
+Game_428,PC,2014.0,Action,Sony,0.53,1.01,1.06,0.6,3.2
+Game_429,PC,2002.0,Puzzle,Nintendo,0.84,0.6,0.56,0.23,2.23
+Game_430,PC,2022.0,Action,EA,0.28,0.25,0.4,0.47,1.4
+Game_431,PS5,2007.0,Strategy,2K Games,0.12,0.13,0.89,0.11,1.25
+Game_432,Xbox One,2019.0,Adventure,Bethesda,2.29,0.07,0.47,0.23,3.06
+Game_433,PS5,2015.0,Racing,Activision,0.46,0.31,0.17,0.13,1.07
+Game_434,Xbox One,2012.0,Puzzle,Nintendo,0.29,0.05,0.12,0.16,0.62
+Game_435,PC,2017.0,RPG,EA,1.76,0.84,0.08,0.4,3.08
+Game_436,PC,2009.0,RPG,Bandai Namco,1.44,0.33,1.15,0.64,3.56
+Game_437,PS5,2018.0,Strategy,Capcom,1.5,1.74,0.62,0.04,3.9
+Game_438,PS5,2016.0,RPG,Activision,0.39,0.08,1.39,0.3,2.16
+Game_439,Xbox One,2023.0,Racing,Capcom,0.4,0.26,0.46,0.26,1.38
+Game_440,Nintendo Switch,2018.0,Strategy,Bandai Namco,0.37,1.31,0.32,0.04,2.04
+Game_441,Xbox One,2022.0,Racing,EA,0.29,0.91,0.03,0.07,1.3
+Game_442,PS5,2004.0,Adventure,Sony,1.6,0.07,0.56,0.11,2.34
+Game_443,Xbox Series X,2020.0,Action,Capcom,2.83,2.1,0.44,0.05,5.42
+Game_444,PS5,2022.0,Adventure,Activision,1.93,2.1,2.31,0.08,6.42
+Game_445,Xbox Series X,2008.0,Adventure,Ubisoft,2.36,0.4,0.14,0.09,2.99
+Game_446,PS4,2011.0,Racing,Rockstar,0.78,0.42,0.38,0.12,1.7
+Game_447,PS5,2020.0,Strategy,Nintendo,1.59,4.51,0.53,0.42,7.05
+Game_448,PS4,2000.0,Strategy,Sony,0.66,0.98,0.52,0.25,2.41
+Game_449,Nintendo Switch,2000.0,RPG,Capcom,1.12,0.76,0.41,1.29,3.58
+Game_450,Xbox One,2014.0,Sports,2K Games,0.99,1.82,0.75,0.16,3.72
+Game_451,Xbox Series X,2001.0,Action,Nintendo,0.29,0.34,0.11,0.42,1.16
+Game_452,Xbox One,2021.0,Racing,Ubisoft,0.73,0.56,0.65,0.62,2.56
+Game_453,PS4,2015.0,RPG,Bandai Namco,4.98,0.31,0.48,0.34,6.11
+Game_454,Xbox Series X,2007.0,Puzzle,Rockstar,0.43,1.56,1.13,0.16,3.28
+Game_455,Xbox One,2012.0,Sports,EA,0.22,0.85,0.94,0.42,2.43
+Game_456,PS5,2020.0,Sports,Ubisoft,0.81,1.08,0.19,0.07,2.15
+Game_457,PC,2000.0,Racing,Ubisoft,2.34,0.29,0.16,0.12,2.91
+Game_458,PS4,2015.0,Shooter,Bandai Namco,1.31,0.25,2.0,0.24,3.8
+Game_459,Xbox One,2006.0,Action,Bethesda,1.71,0.67,0.37,0.26,3.01
+Game_460,PS4,2004.0,Sports,Bandai Namco,0.32,1.34,1.18,0.01,2.85
+Game_461,Mobile,2021.0,Racing,Bethesda,1.45,0.74,0.09,0.87,3.15
+Game_462,PS4,2022.0,Racing,Bethesda,0.59,0.03,0.51,0.36,1.49
+Game_463,Xbox Series X,2002.0,RPG,Sony,2.7,2.03,0.83,0.21,5.77
+Game_464,Mobile,2011.0,Puzzle,Sony,1.49,0.07,1.47,0.81,3.84
+Game_465,Xbox Series X,2015.0,Shooter,Activision,0.33,3.12,0.21,0.17,3.83
+Game_466,PC,2018.0,Action,Capcom,0.1,0.03,0.65,1.18,1.96
+Game_467,Mobile,2004.0,Strategy,Capcom,0.07,1.19,0.39,0.22,1.87
+Game_468,PS5,2021.0,Adventure,EA,0.7,0.09,0.03,0.04,0.86
+Game_469,PS4,2013.0,Puzzle,Capcom,0.46,2.42,0.59,0.43,3.9
+Game_470,Xbox One,2004.0,Puzzle,Sony,1.56,0.62,0.59,0.34,3.11
+Game_471,Nintendo Switch,2014.0,RPG,Activision,1.04,0.15,1.33,0.44,2.96
+Game_472,PS4,2016.0,Strategy,Activision,0.46,0.42,0.34,0.91,2.13
+Game_473,PS4,2013.0,Sports,Bethesda,0.24,0.18,0.13,0.45,1.0
+Game_474,PC,2019.0,Sports,Bandai Namco,0.2,0.19,0.02,0.28,0.69
+Game_475,PS5,2004.0,RPG,EA,3.0,2.96,0.27,0.58,6.81
+Game_476,Nintendo Switch,2011.0,Racing,Bethesda,0.42,0.59,0.18,0.34,1.53
+Game_477,Mobile,2015.0,Sports,Bandai Namco,1.58,1.55,0.72,0.16,4.01
+Game_478,Mobile,2015.0,Shooter,Capcom,2.5,1.02,0.22,0.65,4.39
+Game_479,Mobile,2020.0,Action,Bethesda,1.43,1.13,1.49,0.08,4.13
+Game_480,Xbox Series X,2006.0,Puzzle,Nintendo,2.94,0.14,1.64,0.38,5.1
+Game_481,Xbox Series X,2003.0,Puzzle,Capcom,0.75,0.27,0.48,0.64,2.14
+Game_482,Xbox One,2000.0,Shooter,Bandai Namco,4.69,1.55,1.32,0.39,7.95
+Game_483,Nintendo Switch,2004.0,Strategy,EA,0.21,3.53,0.72,0.36,4.82
+Game_484,Mobile,,Sports,Bandai Namco,0.16,0.3,0.4,0.42,1.28
+Game_485,Xbox Series X,2009.0,Puzzle,Bethesda,1.61,0.32,0.1,0.19,2.22
+Game_486,Xbox One,2021.0,Adventure,Bethesda,4.29,0.64,0.31,0.62,5.86
+Game_487,PS5,2004.0,Strategy,Ubisoft,2.48,4.13,0.41,0.07,7.09
+Game_488,Xbox One,2003.0,Action,EA,0.12,0.31,1.0,0.04,1.47
+Game_489,Xbox Series X,2001.0,Action,2K Games,0.49,0.52,0.33,0.1,1.44
+Game_490,PC,2019.0,Puzzle,Capcom,4.0,2.22,1.14,0.23,7.59
+Game_491,PC,2009.0,RPG,Activision,0.44,0.0,0.56,0.21,1.21
+Game_492,Mobile,2018.0,Strategy,EA,2.28,0.04,0.07,0.52,2.91
+Game_493,PC,2000.0,Puzzle,Activision,2.62,0.93,2.65,0.16,6.36
+Game_494,Mobile,2023.0,RPG,EA,1.03,2.38,0.37,0.2,3.98
+Game_495,Mobile,2004.0,Puzzle,EA,0.73,0.27,0.25,0.0,1.25
+Game_496,Xbox Series X,2012.0,Adventure,Bandai Namco,0.9,0.63,0.54,0.16,2.23
+Game_497,PC,2003.0,Strategy,EA,0.39,0.6,0.06,0.31,1.36
+Game_498,Mobile,2015.0,Racing,Ubisoft,3.3,0.64,0.51,0.0,4.45
+Game_499,Nintendo Switch,2023.0,Action,2K Games,0.9,0.97,0.34,0.1,2.31
+Game_500,PS5,2015.0,Puzzle,Bethesda,3.21,0.63,0.26,0.07,4.17
